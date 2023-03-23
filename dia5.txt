@@ -1,0 +1,5 @@
+
+Día 5 - Checkpoint:
+
+Playground - encuentra el palíndromo más grande
+

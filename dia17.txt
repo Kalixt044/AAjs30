@@ -1,0 +1,8 @@
+
+Día 17:
+Prototipos en JavaScript (01:30 min)
+
+Playground - modifica el prototype de los arrays
+
+Playground - crea un auto usando clases
+

@@ -1,0 +1,68 @@
+Día 3:
+
+Condicionales (01:16 min)
+
+Playground - calcula años bisiestos
+
+Switch (01:59 min)
+
+Playground - obtén información de mascotas según su tipo
+
+Ciclos (02:05 min)
+
+for (inicialización; condición; actualización) {
+  // código a ejecutar
+}
+
+//second example
+
+for (let i = 1; i <= 10; i++) {
+  console.log(i);
+}
+//3th example
+El uso de un ciclo “for in” es la siguiente:
+
+const user = {
+	name: "Pepito",
+  age: 20,
+  role: "JavaScript developer"
+}
+
+for (const prop in user) {
+	console.log(user[prop])
+}
+
+// "Pepito"
+// 20
+// "JavaScript developer"
+
+//4th example
+const technologies = ["js", "html", "node", "php"]
+
+for (const element of technologies) {
+  console.log(element)
+}
+
+//5th example
+
+while (condición) {
+  // código a ejecutar
+}
+
+//6th example
+let i = 1;
+while (i <= 10){
+  console.log(i);
+  i++;
+}
+
+//7th example
+let i = 1;
+do {
+	console.log(i);
+	i++;
+	} while (i<= 10);
+
+Playground - dibuja un triángulo
+
+

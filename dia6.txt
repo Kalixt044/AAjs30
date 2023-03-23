@@ -1,0 +1,5 @@
+Día 6:
+
+Reasignación y redeclaración (01:13 min)
+Modo estricto (01:25 min)
+

@@ -1,0 +1,9 @@
+Día 12:
+
+Arrays a profundidad (04:23 min)
+
+Métodos de arrays: Every, Find y findIndex (03:19 min)
+
+Playground - válida el formulario
+
+

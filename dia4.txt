@@ -1,0 +1,37 @@
+Día 4:
+
+Arrays (01:20 min)
+
+Uno de los métodos más populares en los arrays de JavaScript es “push()”. Este método permite agregar un nuevo elemento al final del array. Por ejemplo:
+
+colores.push("amarillo");
+console.log(colores); // ["rojo", "azul", "verde", "amarillo"]
+Otro método popular es “pop()”, que permite eliminar el último elemento del array. Por ejemplo:
+
+colores.pop();
+console.log(colores); // ["rojo", "azul", "verde"]
+
+El método “map()” permite aplicar una función a cada elemento del array y devolver un nuevo array con los valores modificados. Por ejemplo:
+
+const numeros = [1, 2, 3, 4, 5];
+const cuadrados = numeros.map(function(numero) {
+  return numero * numero;
+});
+console.log(cuadrados); // [1, 4, 9, 16, 25]
+
+El método “reduce()” permite combinar todos los elementos del array en un solo valor. Por ejemplo:
+
+const suma = numeros.reduce(function(acumulador, numero) {
+  return acumulador + numero;
+}, 0);
+console.log(suma); // 15
+Existen muchos otros métodos populares en los arrays de JavaScript, como “filter()”, “sort()” y “slice()”, por los cuales no te debes preocupar por ahora, más adelante tendrás una sección completa acerca de estos métodos.
+
+
+Playground - encuentra al michi más famoso
+
+Objetos (01:24 min)
+
+Playground - obtén el promedio de los estudiantes
+
+

@@ -1,0 +1,11 @@
+Día 1:
+
+Variables, funciones y sintaxis básica (03:36 min)
+
+Tipos de datos (02:03 min)
+
+Playground - retorna el tipo
+
+Tipos de datos - pt 2 (02:21 min)
+
+xy

@@ -1,0 +1,11 @@
+Día 14:
+
+Mutable functions (01:53 min)
+
+Playground - modifica una lista de compras
+
+Métodos de arrays: sort (02:10 min)
+
+Playground - ordena los productos
+
+

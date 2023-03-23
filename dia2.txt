@@ -1,0 +1,11 @@
+Día 2:
+
+Operadores (02:14 min)
+
+Hoisting y coerción (01:18 min)
+
+Playground - calcula la propina
+
+Alcance de las variables (01:07 min)
+
+

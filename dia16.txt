@@ -1,0 +1,8 @@
+Día 16:
+
+Programación orientada a objetos en JavaScript (03:52 min)
+
+Objetos literales (01:56 min)
+
+Playground - congela el objeto recursivamente
+

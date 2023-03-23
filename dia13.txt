@@ -1,0 +1,11 @@
+Día 13:
+
+Métodos de arrays: Includes, Join y concat (02:38 min)
+
+Playground - agrupa los productos
+
+Métodos de arrays: Flat y FlatMap (02:25 min)
+
+Playground - encuentra la ubicación del valor buscado
+
+

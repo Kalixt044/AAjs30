@@ -1,0 +1,10 @@
+Día 8:
+
+Closures (02:01 min)
+
+Playground - crea una calculadora con closures
+
+Higher order functions (01:03 min)
+
+Playground - crea tu propio método map
+
