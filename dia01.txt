@@ -3,9 +3,15 @@ Día 1:
 Variables, funciones y sintaxis básica (03:36 min)
 
 Tipos de datos (02:03 min)
+// Tipos primitivos
+
+40 
+  // Numeros 
+3.14
+true   // Booleanos, estos fueron inventados por George Boole, un Matemático británico. y esto hace referencia a cosas que podamos validar.
+ false
 
 Playground - retorna el tipo
 
 Tipos de datos - pt 2 (02:21 min)
-
 xy
