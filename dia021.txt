@@ -1,2 +1,12 @@
 /***
+Día 21
+Patrones de diseño
+01:58 min
+
+
+Sinlgeton y Factory pattern en JavaScript
+04:22 min
+
+
+Playground - implementa singleton en un chat
 ***/

@@ -1,2 +1,13 @@
 /***
+Día 22
+Adapter y Decorator pattern en JavaScript
+03:33 min
+
+
+Playground - mejora el código usando builder pattern
+Builder y Protype pattern en JavaScript
+03:34 min
+
+
+Playground - personaliza productos de una tienda
 ***/

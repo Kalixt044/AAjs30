@@ -1,2 +1,13 @@
 /***
+Día 23
+Facade y proxy pattern en JavaScript
+04:29 min
+
+
+Playground - proxy en servicio de mensajería
+Chain of responsability y Observer pattern en JavaScript
+02:56 min
+
+
+Playground - implementación de observador en newsletter
 ***/
