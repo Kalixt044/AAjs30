@@ -1,2 +1,13 @@
 /***
+Día 19
+Herencia en JavaScript
+01:23 min
+
+
+Playground - jerarquía de animales
+Polimorfismo en JavaScript
+01:47 min
+
+
+Playground - sistema de pagos
 **/
