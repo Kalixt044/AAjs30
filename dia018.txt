@@ -1,2 +1,12 @@
 /***
+Abstracción en JavaScript
+01:41 min
+
+
+Playground - sistema de carrito de compras
+Encapsulamiento en JavaScript
+02:54 min
+
+
+Playground - encapsula datos de los usuarios
 **/
