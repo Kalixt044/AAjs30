@@ -5,6 +5,44 @@ Operadores (02:14 min)
 Hoisting y coerción (01:18 min)
 
 Playground - calcula la propina
+ En este desafío, debes crear la lógica d \
+| e la función `isLeapYear`, que determina |
+|  si un año es bisiesto o no. Un año es b |
+| isiesto si cumple con las siguientes con |
+| diciones:                                |
+|                                          |
+| - Es divisible por 4, pero no por 100.   |
+| - Si es divisible por 100 debe serlo por |
+|  400 también.                            |
+|                                          |
+| La función `isLeapYear` recibe un único  |
+| parámetro: el año a evaluar. Debe devolv |
+| er `true` si el año es bisiesto o `false |
+| ` en caso contrario.                     |
+|                                          |
+| Toma en cuenta que la función debe ser c |
+| apaz de manejar valores no enteros o neg |
+| ativos.                                  |
+|                                          |
+| Ejemplo 1:                               |
+|                                          |
+| ```txt                                   |
+| Input: 2000;                             |
+| Output: true;                            |
+| ```                                      |
+|                                          |
+| Ejemplo 2:                               |
+|                                          |
+| ```txt                                   |
+| Input: -2024;                            |
+| Output: false;                           |
+| ```                                      |
+|                                          |
+| Ejemplo 3:                               |
+|                                          |
+| ```txt                                   |
+| Input: 1984.25;                          |
+| Output: false;                           |
 
 Alcance de las variables (01:07 min)
 
